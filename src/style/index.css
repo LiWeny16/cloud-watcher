@@ -1,0 +1,12 @@
+html,
+body,
+#root {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /* 👈 消除滚动条 */
+    font-family: 'Roboto', sans-serif;
+    background-color: #f9f9f9;
+    /* 可选：柔和背景 */
+}
